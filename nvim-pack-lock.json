@@ -36,9 +36,17 @@
       "rev": "a1d504892f2bc56c2e79b65c6faded2fd21f3eca",
       "src": "https://github.com/hrsh7th/nvim-cmp"
     },
+    "nvim-keycastr": {
+      "rev": "d494e6ef5b551ffabe8f47d80f233353cd0d8034",
+      "src": "https://github.com/4513ECHO/nvim-keycastr"
+    },
     "nvim-lspconfig": {
       "rev": "31026a13eefb20681124706a79fc1df6bf11ab27",
       "src": "https://github.com/neovim/nvim-lspconfig"
+    },
+    "nvim-rg": {
+      "rev": "4289cc873eea1c035a55d4b0c9bbf8e8c60851cc",
+      "src": "https://github.com/duane9/nvim-rg"
     },
     "nvim-tree.lua": {
       "rev": "f9bfc0059eca24546b69a7006110463da4808f8f",
@@ -67,6 +75,10 @@
     "which-key.nvim": {
       "rev": "3aab2147e74890957785941f0c1ad87d0a44c15a",
       "src": "https://github.com/folke/which-key.nvim"
+    },
+    "yaml.nvim": {
+      "rev": "49dd23b839fdac865ca31ad64c0b7d88a9927e87",
+      "src": "https://tangled.org/cuducos.me/yaml.nvim"
     }
   }
 }
