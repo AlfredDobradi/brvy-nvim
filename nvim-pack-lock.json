@@ -12,6 +12,10 @@
       "rev": "3739dcd638f457559d5a1ae1e398276175694e4b",
       "src": "https://github.com/ctrlpvim/ctrlp.vim"
     },
+    "friendly-snippets": {
+      "rev": "6cd7280adead7f586db6fccbd15d2cac7e2188b9",
+      "src": "https://github.com/rafamadriz/friendly-snippets"
+    },
     "lir.nvim": {
       "rev": "f1291b88d3649743165cfb5d0d44a7722d4021ea",
       "src": "https://github.com/tamago324/lir.nvim"
@@ -51,6 +55,10 @@
     "project.nvim": {
       "rev": "8c6bad7d22eef1b71144b401c9f74ed01526a4fb",
       "src": "https://github.com/ahmedkhalf/project.nvim"
+    },
+    "telescope-ui-select.nvim": {
+      "rev": "6e51d7da30bd139a6950adf2a47fda6df9fa06d2",
+      "src": "https://github.com/nvim-telescope/telescope-ui-select.nvim"
     },
     "telescope.nvim": {
       "rev": "506338434fec5ad19cb1f8d45bf92d66c4917393",
