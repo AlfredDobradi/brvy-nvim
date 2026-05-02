@@ -131,7 +131,8 @@ vim.pack.add {{
     src = "https://github.com/duane9/nvim-rg"
 }}
 
-require('keyshow').setup({
+vim.pack.add { { src = "https://github.com/AlfredDobradi/floatystrokes", name = "floatystrokes" } }
+require('floatystrokes').setup({
     position = "bottom-right", -- bottom-right | bottom-left | top-right | top-left | bottom-center
     timeout = 1500, -- ms before the window fades away
     max_keys = 6, -- rolling history length

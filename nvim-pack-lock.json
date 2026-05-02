@@ -12,13 +12,13 @@
       "rev": "3739dcd638f457559d5a1ae1e398276175694e4b",
       "src": "https://github.com/ctrlpvim/ctrlp.vim"
     },
+    "floatystrokes": {
+      "rev": "f79a39326343acf3ef18ca06b252f4f1b057bb30",
+      "src": "https://github.com/AlfredDobradi/floatystrokes"
+    },
     "friendly-snippets": {
       "rev": "6cd7280adead7f586db6fccbd15d2cac7e2188b9",
       "src": "https://github.com/rafamadriz/friendly-snippets"
-    },
-    "lir.nvim": {
-      "rev": "f1291b88d3649743165cfb5d0d44a7722d4021ea",
-      "src": "https://github.com/tamago324/lir.nvim"
     },
     "lualine.nvim": {
       "rev": "131a558e13f9f28b15cd235557150ccb23f89286",
@@ -35,10 +35,6 @@
     "nvim-cmp": {
       "rev": "a1d504892f2bc56c2e79b65c6faded2fd21f3eca",
       "src": "https://github.com/hrsh7th/nvim-cmp"
-    },
-    "nvim-keycastr": {
-      "rev": "d494e6ef5b551ffabe8f47d80f233353cd0d8034",
-      "src": "https://github.com/4513ECHO/nvim-keycastr"
     },
     "nvim-lspconfig": {
       "rev": "31026a13eefb20681124706a79fc1df6bf11ab27",
